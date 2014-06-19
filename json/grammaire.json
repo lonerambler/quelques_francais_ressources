@@ -1,0 +1,15 @@
+[
+    {"Le conditionnel présent":[{"Formation":"Le conditionnel présent se forme avec le radical du futur et la terminaison de l'imparfait :\nj'aimer-ai \u21FE j'aimerais"},
+                                {"Exemple":[{"Singulier":[{"1re pers.":"j'aimerais"},{"2e pers.":"tu aimerais"},{"3e pers.":"il\/elle aimerait"}]},
+                                            {"Pluriel":[{"1re pers.":"nous aimerions"},{"2e pers.":"vous aimeriez"},{"3e pers.":"ils\/elles aimeraient"}]}]},
+                                {"Emploi":["Le conditionnel présent peut servir à :\n",
+                                           "\u2014 exprimer un désir, un souhait :\n",
+                                           "Nous aimerions organiser deux semaines de vacances à la mer.\n",
+                                           "\u2014 formuler une demande polie :\n",
+                                           "Pourriez-vous s'il vous plaît envoyer tous vos dons à l'addresse suivante\u2026"]}]
+    },
+    {"Le pronom interrogatif \"lequel\"":[[{"Singulier":[{"Masculin":"lequel"},{"Féminin":"laquelle"}]},
+                                       {"Pluriel":[{"Masculin":"lesquels"},{"Féminin":"lesquelles"}]}],
+                                      "Une seule radio vous aide à réaliser vos projets.\nLaquelle ?\n= Quelle radio ?"]
+    }
+]
