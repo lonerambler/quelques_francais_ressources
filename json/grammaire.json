@@ -11,5 +11,16 @@
     {"Le pronom interrogatif \"lequel\"":[[{"Singulier":[{"Masculin":"lequel"},{"Féminin":"laquelle"}]},
                                        {"Pluriel":[{"Masculin":"lesquels"},{"Féminin":"lesquelles"}]}],
                                       "Une seule radio vous aide à réaliser vos projets.\nLaquelle ?\n= Quelle radio ?"]
+    },
+    {"Les pronoms relatifs \"où\" et \"dont\"":[["Où remplace un complément de lieu ou de temps :",
+                                                 "Êtes-vous satisfait de la maison où vous habitez ?",
+                                                 "C'est un jour où j'aime bien rester chez moi, tranquille."],
+                                                ["Dont remplace un complément introduit par \"de\" :",
+                                                 "Quelles sont les choses dont vous avez besoin ?",
+                                                 "= Vous avez besoin de ces choses.",
+                                                 "Il y a deux choses dont je ne suis pas très satisfait.",
+                                                 "= Je ne suis pas très satisfait de deux choses.",
+                                                 "C'est la personne dont je t'ai parlé.",
+                                                 "= Je t'ai parlé de cette personne."]]
     }
 ]
