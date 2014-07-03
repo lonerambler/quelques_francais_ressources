@@ -1,21 +1,21 @@
             Grand Corps Malade - Funambule                                                                      Grand Corps Malade - Funambulista (espagnol)                                                        Grand Corps Malade - Funambulist (anglais)
 ---------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------+
-À chaque époque, on s'cherche un peu, et on s'demande si on s'connaît                               En cada época nos buscamos un poco y nos preguntamos si nos conocemos,
-On est nous-même, on fait s'qu'on peut, on changera pas c'est ce qu'on s'promet                     somos nosotros mismos, hacemos lo que podemos, no cambiaremos aquello que nos prometemos,
-Entre bitume et tapis rouge, j'ai slalomé de part en part                                           entre asfalto y alfombra roja he descendido de parte en parte
-J'côtoie la dèche et l'opulence, j'apprends à faire le grand écart                                  recorro la pobreza y la opulencia, aprendo a hacer la gran diferencia.
-Ma vie propose tellement de thèmes, parfois je fonce parfois je freine                              Mi vida propone tantos temas, a veces arrojo a veces refreno,
-J'vois les deux côtés du système, pourtant j'me sens pas schizophrène                               veo los dos lados del sistema, por tanto no me siento esquizofrénico
-J'essaie de n'pas faire trop d'erreurs et dans mes choix je me sens libre                           trato de no cometer demasiados errores y dentro de mis elecciones me siento libre
-Je crois en c'truc du fond du cœur, tout est une question d'équilibre                               creo en este truco del fondo del corazón, todo es una cuestión de equilibrio.
-C'est pour ce besoin d'équilibre que j'ai dû prendre un peu de risque                               Es por esta necesidad de equilibrio que debí tomar un poco de riesgo
-Après un mauvais coup du sort, ma vie partait pour être triste                                      después de un mal golpe de suerte, mi vida partía por ser triste
-Écarté des terrains de sport, comme un sursaut j'ai compensé                                        alejado de los terrenos del deporte, como un sobresalto compensé
-J'avais besoin d'un autre support, dans l'écriture j'me suis lancé                                  tenía necesidad de algún otro soporte, a la escritura me lancé.
-C'est pour ce besoin d'équilibre qu'il me fallait de l'aventure                                     Es por esta necesidad de equilibrio que me faltaba la aventura
-Toute mon histoire se refermait, fallait trouver une ouverture                                      toda mi historia se cerraba, faltaba encontrar una abertura
-J'ai touché l'accélérateur pour retrouver des sensations                                            toqué el acelerador para reencontrar las sensaciones
-Car comme je marche à 2 à l'heure, il m'fallait une compensation                                    ya que como camino de a 2 a la vez, me faltaba una compensación.
+À chaque époque on s'cherche un peu et on s'demande si on s'connaît,                                En cada época nos buscamos un poco y nos preguntamos si nos conocemos,                              On each age we search ourselves a bit and we ask ourselves if we know us,
+on est nous-mêmes on fait ce qu'on peut, on chang'ra pas c'est c'qu'on s'promet,                    somos nosotros mismos hacemos lo que podemos, no cambiaremos aquello que nos prometemos,            we are ourselves we do what we can, we won't change what we promise to us,
+entre bitume et tapis rouge j'ai slalomé de part en part,                                           entre asfalto y alfombra roja he descendido de parte en parte,                                      between asphalt and red carpet I have come from part to part,
+j'côtoie la dèche(1) et l'opulence(2) j'apprends à faire le grand écart.                            mantengo cerca la pobreza y la opulencia aprendo a hacer la gran diferencia.                        I keep close to the poberty and the opulence I lear to do the great gap.
+La vie propose tellement de thèmes parfois je fonce(3) parfois je freine,                           La vida propone tantos temas a veces apuro a veces refreno,                                         The life propose so many themes sometimes I charge sometimes I break,
+j'vois les deux côtés du système pourtant j'me sens pas schizophrène(4),                            veo los dos lados del sistema por tanto no me siento esquizofrénico,                                I see both sides of the system so I don't feel myself schizophrenic,
+j'essaie de pas trop faire d'erreurs et dans mes choix je me sens libre,                            trato de no cometer demasiados errores y dentro de mis elecciones me siento libre,                  I try to not perform so many errors and within my choices I feel myself free,
+je crois en c'truc du fond du cœur tout est une question d'équilibre.                               creo en este truco del fondo del corazón todo es una cuestión de equilibrio.                        I believe in this trick from the heart everything is a balance matter.
+C'est pour ce besoin d'équilibre que j'ai dû prendre un peu de risque,                              Es por esta necesidad de equilibrio que debí tomar un poco de riesgo,
+après un mauvais coup du sort(5) ma vie partait pour être triste,                                   después de un desfavorable accidente mi vida iba por ser triste,
+écarté des terrains de sport comme un sursaut j'ai compensé,                                        alejado de los terrenos del deporte como un sobresalto compensé,
+j'avais besoin d'un autre support dans l'écriture je me suis lancé.                                 tenía necesidad de algún otro soporte en la escritura me arrojé.
+C'est pour ce besoin d'équilibre qu'il me fallait de l'aventure,                                    Es por esta necesidad de equilibrio que me faltaba la aventura,
+toute mon histoire se refermait fallait trouver une ouverture,                                      toda mi historia se cerraba, faltaba encontrar una abertura,
+j'ai touché l'accélérateur pour retrouver des sensations                                            pisé el acelerador para reencontrar sensaciones,
+car comme je marche à deux à l'heure il m'fallait une compensation                                  ya que como camino tan lento me faltaba una compensación.
 
 Je suis un funambule, j'avance loin des certitudes                                                  Soy un funambulista, avanzo lejos de las certitudes,
 Les pieds sur terre, l'air dans ma bulle, l'équilibre est une attitude                              los pies en la tierra, el aire en mi burbuja, el equilibrio es una actitud,
@@ -62,3 +62,9 @@ En équilibre malhabile, j'suis un funambule à béquille                       
 Je suis un funambule, j'avance loin des certitudes                                                  Soy un funambulista, avanzo lejos de las certitudes,
 Les pieds sur terre, l'air dans ma bulle, l'équilibre est une attitude                              los pies en la tierra, el aire en mi burbuja, el equilibrio es una actitud,
 Je suis un funambule...                                                                             soy un funambulista...
+
+ 1. La dèche (familier) : l’absence d’argent, la misère, la grande pauvreté.
+ 2. L'opulence : la richesse.
+ 3. Foncer : aller très vite.
+ 4. Schizophrène : quelqu’un qui a des troubles de la personnalité.
+ 5. Un coup du sort : un coup du destin malchanceux, un accident.
