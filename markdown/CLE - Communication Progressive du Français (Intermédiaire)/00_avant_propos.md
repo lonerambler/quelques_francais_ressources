@@ -37,7 +37,7 @@ liberté, sans nécessairement suivre un ordre imposé. Cependant, pour facilite
 l'apprentissage, nous avons divisé cet ouvrage en six grandes rubriques (_Faire
 les courses, Donner et obtenir des informations, etc_). Au terme de chacune de
 ces parties, un bilan de deux pages permet à l'élève de mettre en application le
-vocabulaire et les structures étudiés : ces activités «transversales», en effet,
+vocabulaire et les structures étudiés : ces activités « transversales », en effet,
 font appel aux notions abordees dans toute la rubrique.
 
 L'ouvrage, construit comme une série de cours, s'inscrit dans une collection
@@ -49,3 +49,34 @@ féminins, heureux ou furieux. Vient ensuite une liste récapitulative des princ
 expressions rencontrées dans les dialogues (_Comment le dire ?_). Enfin,
 des remarques lexicales, culturelles, ou encore pratiques permettent au lecteur
 de se familiariser avec la réalité de la France d'aujourd'hui.
+
+*   __Sur les pages de droite__, des exercices pédagogiques de trois sortes : tout
+d'abord, un exercice de compréhension portant sur les dialogues de la page en
+regard. Viennent ensuite des activités variées (_choisissez la bonne réponse, que
+pouvez-vous répondre, complétez les dialogues, qui parle ?..._) Enfin, un jeu de
+rôle, ou une activité créative laissent aux élèves toute latitude de s'approprier
+le vocabulaire et les structures, puis de les mettre en application.
+
+    Nous avons organisé cet ouvrage selon une double progression : d'une part,
+sur les pages de gauche, les premiers dialogues sont moins difficiles d'accès
+que les derniers, tant pour l'acte de communication que pour le vocabulaire
+requis. D'autre part, sur les pages de droite, les exercices pédagogiques sont
+classés par ordre de difficulté croissante.
+
+*   __Des illustrations__ apportent leur précieux concours : elles explicitent les
+dialogues, mettent en scène la gestualité, les codes vestimentaires... Lors
+d'activités pédagogiques, elles amènent l'élève à s'identifier aux personnages
+et à les faire parler de manière appropriée.
+
+* __Les dialogues__ de la page de gauche sont enregistrés dans __un coffret de
+deux CD__, favorisant ainsi un travail complet, tant à l'oral qu'à l'écrit.
+
+* __Un livret séparé__ contient les corrigés commentés des exercices, des
+propositions pour les jeux de rôles ainsi que des remarques complémentaires. Ce
+fascicule constitue donc un outil pédagogique en tant que tel. Il laisse au
+lecteur toute liberté d'utiliser ce volume en classe aussi bien qu'en auto-apprentissage.
+
+Bonne communication !
+
+> L'astérisque\* qui suit certains mots ou expressions
+> signale leur appartenance au registre familier de la langue.
